@@ -1,0 +1,12 @@
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\bin\Debug\DatabaseFirst.Data.dll.config
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\bin\Debug\DatabaseFirst.Data.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\bin\Debug\DatabaseFirst.Data.pdb
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\bin\Debug\EntityFramework.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\bin\Debug\EntityFramework.xml
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\obj\Debug\DatabaseFirst.Data.csproj.CoreCompileInputs.cache
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\obj\Debug\DatabaseFirst.Data.csproj.CopyComplete
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\obj\Debug\DatabaseFirst.Data.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\obj\Debug\DatabaseFirst.Data.pdb
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\DatabaseFirst.Data\obj\Debug\DatabaseFirst.Data.csprojAssemblyReference.cache

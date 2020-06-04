@@ -1,0 +1,15 @@
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.dll.config
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.pdb
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\bin\Debug\EntityFramework.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\bin\Debug\EntityFramework.xml
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.Migrations.InitialModel.resources
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.Migrations.foo.resources
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.csproj.GenerateResource.cache
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.csproj.CoreCompileInputs.cache
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.csproj.CopyComplete
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.pdb
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.csprojAssemblyReference.cache

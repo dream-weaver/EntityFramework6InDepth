@@ -1,0 +1,15 @@
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\bin\Debug\CodeFirst.Repository.dll.config
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\bin\Debug\CodeFirst.Repository.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\bin\Debug\CodeFirst.Repository.pdb
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\bin\Debug\CodeFirst.FluentAPI.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\bin\Debug\EntityFramework.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\bin\Debug\CodeFirst.FluentAPI.pdb
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\bin\Debug\CodeFirst.FluentAPI.dll.config
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\bin\Debug\EntityFramework.xml
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\obj\Debug\CodeFirst.Repository.csprojAssemblyReference.cache
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\obj\Debug\CodeFirst.Repository.csproj.CoreCompileInputs.cache
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\obj\Debug\CodeFirst.Repository.csproj.CopyComplete
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\obj\Debug\CodeFirst.Repository.dll
+F:\SandBox\PathToEntityFramework\EntityFramework6WithMosh\EntityFrameworkDatabaseFirst\CodeFirst.Repository\obj\Debug\CodeFirst.Repository.pdb
